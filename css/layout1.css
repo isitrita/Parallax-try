@@ -39,7 +39,6 @@ img {
 .fore-bird {
   width: 960px;
   height: 733px;
-  background-color: rgba(255, 192, 203, 0.6);
   background-image: url("../images/fore-bird.png");
   background-position: right bottom;
   background-repeat: no-repeat;
@@ -47,5 +46,14 @@ img {
   left: 50%;
   margin-left: -300px;
   top: 380px; }
+
+.back-bird {
+  width: 960px;
+  height: 298px;
+  background-image: url("../images/back-bird.png");
+  background-repeat: no-repeat;
+  background-position: top left;
+  position: absolute;
+  left: 50%; }
 
 /*# sourceMappingURL=layout1.css.map */
